@@ -8,8 +8,8 @@ Sem entender patavina, o credor usou de agrados e ameaças para fazer o garoto e
 Nesse instante uma mosca pousou no batente da porta. O homem rico apontou para ela, declarando: "Aí está nossa testemunha".
 Então o garoto explicou: "Meu pai foi cortar bambus para fazer uma cerca, e minha mãe foi vender leques para comprar óleo para o lampião".
 O ricaço partiu, satisfeito, mas dias depois voltou para cobrar a dívida, fazendo ouvidos moucos quando o filho do camponês lhe lembrou sua recente promessa. O impasse se estabeleceu, e o caso foi parar no tribunal.
+Na presença do juiz o homem rico afirmou que nunca tinha visto aquele menino e, portanto, não poderia ter lhe prometido coisa nenhuma. O menino, por sua vez, contou uma versão muito diferente da história. "É a palavra de um contra a palavra do outro", suspirou o juiz, atarantado. "Não posso decidir nada sem testemunha."
 [... procure no historico de commits a parte que falta aqui ...]
-"Mas nós temos uma testemunha", disse o filho do camponês. "Uma mosca ouviu toda a conversa!"
 "Uma mosca!", o magistrado exclamou. "Está brincando comigo, seu moleque?"
 "Não, senhor. Uma mosca enorme e gorda ouviu tudo, porque estava pousada bem no nariz dele!"
 "Mentiroso!", o homem rico berrou. "Ela pousou no batente da porta!"
