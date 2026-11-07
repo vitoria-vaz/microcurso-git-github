@@ -2,4 +2,8 @@ banana
 maca
 pera 
 abacaxi
+<<<<<<< HEAD
 laranja
+=======
+tamarindo
+>>>>>>> branch_2
