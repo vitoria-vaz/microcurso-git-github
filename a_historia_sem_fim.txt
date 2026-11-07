@@ -6,5 +6,5 @@ Muitos jovens ricos se apresentaram, porém todos acabaram decapitados. Até que
 "Não vejo graça nenhuma nessa história", o rei reclamou.
 "Espere, Majestade, por favor", o rapaz pediu, continuando sua narrativa: "Depois mais um gafanhoto entrou e pegou outro grão de trigo". E nessa toada de "mais um gafanhoto entrou e pegou outro grão de trigo" prosseguiu, até que a princesa se pôs a bocejar e os cortesãos caíram no sono. O rei ainda aguentou bravamente mais uma sequência interminável de gafanhotos pegando grãos de trigo, porém acabou por perder a paciência. "Isso não tem fim?", perguntou.
 "Não, Majestade", o pobretão respondeu.
-"Sendo assim, você ganhou a mão de minha filha", declarou o monarca.
+[... procure no historico de commits a parte que falta aqui ...]
 O moço se casou com a princesa e lhe prometeu que nunca mais lhe contaria essa história sem fim.
