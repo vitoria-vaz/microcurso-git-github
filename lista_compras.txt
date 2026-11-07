@@ -2,3 +2,4 @@ banana
 maca
 pera 
 abacaxi
+laranja
